@@ -16,7 +16,7 @@ using namespace std;
         cout << count << endl;  // print frequency of x
     }}
 
-int main() {
+int main() {g
     int n;
     cin >> n;  // size of array
     
@@ -33,3 +33,8 @@ int main() {
     
     return 0;
 }  
+// git remote add origin https://github.com/SonaamMourya04/Pro_DSA.git
+// git branch -M main
+// git push -u origin main 
+//TC=O(Q*N)
+//SC=O(1)
